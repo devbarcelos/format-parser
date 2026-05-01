@@ -1,0 +1,16 @@
+{
+  "name": "format-parser",
+  "version": "1.0.0",
+  "description": "Professional format-parser library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": ["format-parser", "library", "javascript"],
+  "author": "leeydev",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

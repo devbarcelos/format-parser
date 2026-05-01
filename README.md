@@ -9,5 +9,16 @@ Professional format-parser library.
 
 ## Installation
 ```bash
-# Installation steps here
+npm install format-parser
+```
+
+## Usage
+```javascript
+const lib = require('format-parser');
+console.log(lib);
+```
+
+## Testing
+```bash
+npm test
 ```
